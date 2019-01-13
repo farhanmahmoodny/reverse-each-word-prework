@@ -6,5 +6,3 @@ string2.split(" ")
 string2.each |word|
 array.unshift(string2.shift)
 end
-end
-end
