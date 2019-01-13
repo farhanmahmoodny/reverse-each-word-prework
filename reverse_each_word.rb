@@ -5,4 +5,5 @@ array.push(string.split(" "))
 array.each do |word|
   word.reverse
 end
+array
 end
