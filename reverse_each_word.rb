@@ -6,5 +6,5 @@ string3 = string2.split(" ")
 string3.each do |word|
   array.unshift(word)
 end
-array
+array.join
 end
