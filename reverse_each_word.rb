@@ -1,7 +1,6 @@
 
 def reverse_each_word(string)
 array = []
-string.reverse
-string.split(" ")
-
+string2 = string.reverse
+string2.split(" ")
 end
